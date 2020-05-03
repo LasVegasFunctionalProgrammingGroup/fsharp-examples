@@ -1,0 +1,3 @@
+echo Starting fsharpi ...
+fsharpi ./expressionmatter.fsx
+echo Done.
